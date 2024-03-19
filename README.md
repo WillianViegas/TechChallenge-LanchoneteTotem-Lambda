@@ -2,6 +2,8 @@
 
 Repositório relacionado a Fase 3 do techChallenge FIAP. Implantação de estrutura Lambda + Cognito na aws por meio do terraform e Github Actions;
 
+Repositório bloqueado para push na main, é necessário abri um PullRequest;
+
 Utilizando o terraform e o github actions conseguimos criar uma função lambda e um User pool do cognito na AWS.
 
 Links para repositórios relacioados:
